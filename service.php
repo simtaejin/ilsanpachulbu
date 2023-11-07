@@ -162,7 +162,7 @@
                             <h3>전화상담 안내</h3>
                             <p class="mt_10">평일:오전08:00~오후07:00<br>토요일:오전08:00~오후03:00</p>
                             <em class="mt_30">업무시간외에도 도우미가 필요하신분은</em>
-                            <span class="mt_5">031-912-3636</span>
+                            <span class="mt_5">031-922-0025</span>
                         </li>
                         <li><img src="./assets/banner_2.jpg" alt="배너_2"></li>
                     </ul>
