@@ -36,7 +36,7 @@
                    <!--  <p class="phone">
                         고객만족 <span>100% </span> 고객센터
                     </p> -->
-                    <p class="number mt_30">031-912-3636</p>
+                    <p class="number mt_30">031-922-0025</p>
                     <h1 class="top_logo">
                         <a href="index.php">
                             <img src="./assets/top_logo.png" alt="상단로고">
@@ -53,7 +53,7 @@
                         <li class="off"><a href="price.php">요금고지사항</a></li>
                         <li class="off"><a href="work.php">구직회원</a></li>
                         <li class="on"><a href="location.php">찾아오시는 길</a></li>
-						<li class="off"><a href="notice.php">고객센터</a></li>
+
                     </ul>
                 </div>
             </div>
@@ -70,18 +70,18 @@
 						<div class="fl_l" style="width: calc(100% - 585px);">
 							<dl>
 								<dt><span class="bl_label">주소</span></dt>
-								<dd class="ml_10">경기도 고양시 일산서구 중앙로 1437 화성플라자 314호<br>
-									<span class="small">구주소 : 경기도 고양시 일산구 주엽동 109번지 화성플라자 314호</span>
+								<dd class="ml_10">경기도 고양시 일산 서구 대화동 2223번지 삼운트루아 612호<br>
+<!--									<span class="small">구주소 : 경기도 고양시 일산구 주엽동 109번지 화성플라자 314호</span>-->
 								</dd>
 							</dl>
 							<dl class="mt_30">
 								<dt><span class="bl_label">TEL</span></dt>
-								<dd class="ml_10">031-912-3636
+								<dd class="ml_10">031-922-0025
 								</dd>
 							</dl>
 						</div>
 						<div class="fl_l" style="width: 585px;">
-							<img src="./images/location_1.jpg" alt="건물전경">
+<!--							<img src="./images/location_1.jpg" alt="건물전경">-->
 						</div>
 					</div>
 				</div>
@@ -92,14 +92,14 @@
                         <li>
                             <h3 class="col_025">정성가득한 서비스</h3>
                             <p class="mt_10 col_025">고객님만을 위한 일산여성파출부만의<br>차별화된 서비스로 최선을 다해 모시겠습니다</p>
-                           <em class="mt_30">우리은행 <em style="display: inline-block;"> (일산여성파출부)</em></em>
-                            <span class="mt_5">1005-604-260637</span>
+                           <em class="mt_30">기업은행 <em style="display: inline-block;"> (일산파출부)</em></em>
+                            <span class="mt_5">031-922-0025</span>
                         </li>
                         <li>
                             <h3>전화상담 안내</h3>
                             <p class="mt_10">평일:오전08:00~오후07:00<br>토요일:오전08:00~오후03:00</p>
                             <em class="mt_30">업무시간외에도 도우미가 필요하신분은</em>
-                            <span class="mt_5">031-912-3636</span>
+                            <span class="mt_5">031-922-0025</span>
                         </li>
                         <li><img src="./assets/banner_2.jpg" alt="배너_2"></li>
                     </ul>
@@ -109,24 +109,23 @@
             <div class="top">
                 <div class="inner">
                     <ul>
-                        <li><a class="btn_use" href="location.php#">이용약관</a></li>
-                        <li><a class="col_1d6 btn_info" href="location.php#">개인정보처리방침</a></li>
+
                         <li><a href="location.php">찾아오시는 길</a></li>
                     </ul>
                 </div>
             </div>
-            <div class="bottom">
-                <div class="inner clearfix">
-                    <img class="fl_l mt_30" src="./assets/bottom_logo.jpg" alt="하단로고">
-                    <!--<img class="fl_r mt_30" src="./images/qr_code.jpg" alt="qr코드">-->
-                    <div class="txt_wrap">
-                        <p><span>일산여성파출부</span>경기도 고양시 일산 서구 주엽동 109번지 화성프라자 314호<br>
-                            전화번호 <span>031-912-3636</span>  등록번호 <span>2006-4100104-11-5-00006</span>
-                        </p>
-                        <p class="copy">Copyright © 2021 일산여성파출부 ., All right reserved.</p>
-                    </div>
-                </div> 
-            </div>
+                        <div class="bottom">
+                            <div class="inner clearfix">
+                                <img class="fl_l mt_30" src="./assets/bottom_logo.jpg" alt="하단로고">
+                                <!--<img class="fl_r mt_30" src="./images/qr_code.jpg" alt="qr코드">-->
+                                <div class="txt_wrap">
+                                    <p><span>일산파출부</span>경기도 고양시 일산 서구 대화동 2223번지 삼운트루아 612호<br>
+                                        전화번호 <span>031-922-0025</span>  등록번호 <span>2009-41000121-14-5-00003</span>
+                                    </p>
+                                    <p class="copy">Copyright © 2021 일산파출부 ., All right reserved.</p>
+                                </div>
+                            </div>
+                        </div>
         </footer>		    <div class="pop1">
 			<h2>개인정보취급방침</h2>
 			<button type="button" class="btn_close">닫기</button>

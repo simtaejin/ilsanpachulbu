@@ -77,7 +77,7 @@
                 <!-- <p class="phone">
                     고객만족 <span>100% </span> 고객센터
                 </p> -->
-                <p class="number mt_30">031-912-3636</p>
+                <p class="number mt_30">031-922-0025</p>
                 <h1 class="top_logo">
                     <a href="index.php">
                         <img src="./assets/top_logo.png" alt="상단로고">
@@ -94,7 +94,7 @@
                     <li><a href="price.php">요금고지사항</a></li>
                     <li><a href="work.php">구직회원</a></li>
                     <li><a href="location.php">찾아오시는 길</a></li>
-                    <li><a href="notice.php">고객센터</a></li>
+
                 </ul>
             </div>
         </div>
@@ -118,135 +118,16 @@
                 </ul>
             </div>
         </section>
-        <section class="news con2">
-            <div class="inner clearfix">
-                <div class="fl_l">
-                    <dl>
-                        <dt class="clearfix">
-                            <ul>
-                                <li class="on"><a href="index.php#">공지사항</a></li>
-                                <!--  <li><a href="#">일자리추천</a></li>
-                                 <li><a href="#">질문답변</a></li> -->
-                            </ul>
-                            <a href="notice.php" class="btn_more"></a>
-                        </dt>
-                        <dd>
-                            <ul>
-                                <li>
-                                    <a href="notice.php">
-                                        <h3>일산여성파출부 홈페이지 신규 리뉴얼 오픈! 많은 이용 부탁드리겠습니다.</h3>
-                                        <p>안녕하세요&nbsp; 홈페이지를 새롭게 단장하게 되었습니다.
-                                            기존 메뉴들을 한눈에 보기 쉽도록 사용자를 고려하여 제작되었으며, 앞으로도 일산파출부 홈페이지를 이용하시는 수 많은 분들께서 편리하게 이용하실 수 있도록 더욱 고려하고 노력하는 파출부가 되겠습니다.
-                                            &nbsp;
-                                            감사합니다.
-                                            &nbsp;
 
-                                            &nbsp;
-                                            &nbsp;
-                                            2022년도 새해복 많이 받으세요.
-                                        </p>
-                                        <span>2022-01-14 </span>
-                                    </a>
-                                </li>
 
-                            </ul>
-                            <!-- <ul>
-                                <li>
-                                    <a href="#">
-                                        <h3>2국내유로직업소개요금 등 고시</h3>
-                                        <p>「직업안정법」 제19조제3항에 따른
-                                            국내유료직업소개요금을 다음과 같이
-                                            개정·고시합니다....
-                                            </p>
-                                        <span>2021-05-11 </span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <h3>국내유로직업소개요금 등 고시</h3>
-                                        <p>「직업안정법」 제19조제3항에 따른
-                                            국내유료직업소개요금을 다음과 같이
-                                            개정·고시합니다....
-                                            </p>
-                                        <span>2021-05-11 </span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <h3>국내유로직업소개요금 등 고시</h3>
-                                        <p>「직업안정법」 제19조제3항에 따른
-                                            국내유료직업소개요금을 다음과 같이
-                                            개정·고시합니다....
-                                            </p>
-                                        <span>2021-05-11 </span>
-                                    </a>
-                                </li>
-                            </ul>
-                            <ul>
-                                <li>
-                                    <a href="#">
-                                        <h3>3국내유로직업소개요금 등 고시</h3>
-                                        <p>「직업안정법」 제19조제3항에 따른
-                                            국내유료직업소개요금을 다음과 같이
-                                            개정·고시합니다....
-                                            </p>
-                                        <span>2021-05-11 </span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <h3>국내유로직업소개요금 등 고시</h3>
-                                        <p>「직업안정법」 제19조제3항에 따른
-                                            국내유료직업소개요금을 다음과 같이
-                                            개정·고시합니다....
-                                            </p>
-                                        <span>2021-05-11 </span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <h3>국내유로직업소개요금 등 고시</h3>
-                                        <p>「직업안정법」 제19조제3항에 따른
-                                            국내유료직업소개요금을 다음과 같이
-                                            개정·고시합니다....
-                                            </p>항상공지 테스트
-                                        <span>2021-05-11 </span>
-                                    </a>
-                                </li>
-                            </ul> -->
-                        </dd>
-                    </dl>
-                </div>
-                <div class="fl_r"><a href="index.php#"><img src="./assets/banner_1.jpg" alt="배너_1"></a></div>
-            </div>
-        </section>
-        <section class="contact con3">
-            <div class="inner clearfix">
-                <h2>헬퍼온라인예약상담</h2>
-                <p class="mt_20">가사/육아/실버 도우미 서비스에 대해 궁금하신 점이 있다면 빠른 문의 양식 작성 바랍니다. 최대한 빠르게 답변 드리겠습니다.</p>
-                <form name="mfrm" id="form1" action="index.php" method="post">
-                    <ul class="input_list mt_70">
-                        <li><label for=""><span class="name">이름</span><input name="name" maxlength="20" class="i_type_1" type="text" placeholder="이름을 입력해주세요"></label></li>
-                        <li><label for=""><span class="name">연락처</span><input name="tel" maxlength="14" class="i_type_1" type="text" placeholder="연락처를 입력해주세요"></label></li>
-                        <li><label for=""><span class="name">상담내용</span><div class="select_wrap">
-                                    <select name="content" class="i_type_1 select_1">
-                                        <option value="">선택해주세요</option>
-                                        <option value="이용관련상담">이용관련상담</option>
-                                    </select></div></label></li>
-                    </ul>
-                    <div class="fl_l mt_30 blue_txt">개인정보취급방침(<span><a class="btn_info" href="index.php#">보기</a></span>)에 대하여 모두 동의하십니까? <input type="checkbox" name="check_1" id="check_1"><label for="check_1"><span></span>동의함</label></div>
-                    <div class="fl_r mt_20"><button type="button" onclick="send(document.mfrm)" class="btn_1">보내기</button></div>
-                </form>
-            </div>
-        </section>
         <section class="info con4">
             <div class="inner">
                 <ul class="tbl">
                     <li>
                         <h3 class="col_025">정성가득한 서비스</h3>
                         <p class="mt_10 col_025">고객님만을 위한 일산여성파출부만의<br>차별화된 서비스로 최선을 다해 모시겠습니다</p>
-                        <em class="mt_30">우리은행 <em style="display: inline-block;"> (일산여성파출부)</em></em>
-                        <span class="mt_5">1005-604-260637</span>
+                        <em class="mt_30">기업은행 <em style="display: inline-block;"> (일산파출부)</em></em>
+                        <span class="mt_5">031-922-0025</span>
                     </li>
                     <li>
                         <h3>전화상담 안내</h3>
@@ -262,8 +143,7 @@
         <div class="top">
             <div class="inner">
                 <ul>
-                    <li><a class="btn_use" href="index.php#">이용약관</a></li>
-                    <li><a class="col_1d6 btn_info" href="index.php#">개인정보처리방침</a></li>
+
                     <li><a href="location.php">찾아오시는 길</a></li>
                 </ul>
             </div>
@@ -273,10 +153,10 @@
                 <img class="fl_l mt_30" src="./assets/bottom_logo.jpg" alt="하단로고">
                 <!--<img class="fl_r mt_30" src="./images/qr_code.jpg" alt="qr코드">-->
                 <div class="txt_wrap">
-                    <p><span>일산여성파출부</span>경기도 고양시 일산 서구 주엽동 109번지 화성프라자 314호<br>
-                        전화번호 <span>031-912-3636</span>  등록번호 <span>2006-4100104-11-5-00006</span>
+                    <p><span>일산파출부</span>경기도 고양시 일산 서구 대화동 2223번지 삼운트루아 612호<br>
+                        전화번호 <span>031-922-0025</span>  등록번호 <span>2009-41000121-14-5-00003</span>
                     </p>
-                    <p class="copy">Copyright © 2021 일산여성파출부 ., All right reserved.</p>
+                    <p class="copy">Copyright © 2021 일산파출부 ., All right reserved.</p>
                 </div>
             </div>
         </div>
