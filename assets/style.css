@@ -10,15 +10,19 @@
 #header .top .inner .top_logo {position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);}
 #header .top .inner .phone {font-size: 16px; color: #000000; padding-top: 20px;}
 #header .top .inner .phone>span {display: inline-block; color: #ffffff; background: #000000; font-weight: bold;}
+/*#header .top .inner .number {font-family: 'Gmarket'; color: #00417e; font-size: 36px; font-weight: bold; line-height: 1.25; letter-spacing: -0.065em;}*/
 #header .top .inner .number {font-family: 'Gmarket'; color: #00417e; font-size: 36px; font-weight: bold; line-height: 1.25; letter-spacing: -0.065em;}
-#header .bottom {background: #1de1ef;}
+/*#header .bottom {background: #1de1ef;}*/
+#header .bottom {background: #9fde46;}
+
 #header .bottom .inner {height: 70px;}
 #header .bottom .inner>ul {display: flex;}
 #header .bottom .inner>ul>li {flex-grow: 1;}
 #header .bottom .inner>ul>li.on>a {color: #102a48; position: relative;}
 #header .bottom .inner>ul>li.on>a:before {content: ''; width: 100%; height: 14px; background: #ffffff; position: absolute; left: 0; right: 0; bottom: 0;}
 #header .bottom .inner>ul>li>a {display: block; height: 70px; text-align: center; line-height: 70px; font-size: 18px; color: #102a48;}
-#header .bottom .inner>ul>li.off>a {color: #6286ae;}
+/*#header .bottom .inner>ul>li.off>a {color: #6286ae;}*/
+#header .bottom .inner>ul>li.off>a {color: #ffffff;}
 
 .visual-slide img { margin: 0 auto;display: block;width: 100%;}
 .visual-slide {text-align: center; width: 100%; overflow: hidden;}
