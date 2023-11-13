@@ -126,8 +126,9 @@
                     <img class="fl_l mt_30" src="./assets/bottom_logo.jpg" alt="하단로고">
                     <!--<img class="fl_r mt_30" src="./images/qr_code.jpg" alt="qr코드">-->
                     <div class="txt_wrap">
-                        <p><span>일산파출부</span>경기도 고양시 일산 서구 대화동 2223번지 삼운트루아 612호<br>
-                            전화번호 <span>031-922-0025</span>  등록번호 <span>2009-41000121-14-5-00003</span>
+                        <p>
+                            상호 : <span>일산파출부</span> 대표 : <span>이경림</span> 주소 : <span>경기도 고양시 일산서구 대화동 22231번지 삼운트루아 612호</span><br>
+                            대표전화 : <span>031-922-0025</span> 인허가 번호 : <span>2009-41000121-14-5-00003</span>
                         </p>
                         <p class="copy">Copyright © 2021 일산파출부 ., All right reserved.</p>
                     </div>
