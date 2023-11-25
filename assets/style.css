@@ -32,15 +32,15 @@
 #container .service .inner>ul>li {width: calc(100% / 6 - 20px); border: 1px solid #d7d7d7; border-radius: 15px; overflow: hidden;}
 #container .service .inner>ul>li:last-child {width: calc(100% / 6 * 2);}
 #container .service .inner>ul>li>a {display: block; text-align: center; padding: 160px 0 20px; position: relative;}
-#container .service .inner>ul>li:last-child a {padding-top: 70px; padding-bottom: 100px; }
+#container .service .inner>ul>li:last-child a {padding-top: 50px; padding-bottom: 100px; }
 #container .service .inner>ul>li:last-child a:before {width: 311px; height: 54px; left: 50%;transform: translateX(-50%); top: 140px; background: url(../images/icons.png)no-repeat center center;}
 #container .service .inner>ul>li:last-child a p {margin-top: 10px;}
 #container .service .inner>ul>li>a:before {content: ''; position: absolute; left: 50%; top: 30px; transform: translateX(-50%); }
 
-#container .service .inner>ul>li:nth-child(1)>a:before {width: 86px; height: 84px; background: url(../images/icn_1-1.png)no-repeat center center;}
-#container .service .inner>ul>li:nth-child(2)>a:before {width: 91px; height: 80px; background: url(../images/icn_1-2.png)no-repeat center center;}
-#container .service .inner>ul>li:nth-child(3)>a:before {width: 82px; height: 79px; background: url(../images/icn_1-3.png)no-repeat center center;}
-#container .service .inner>ul>li:nth-child(4)>a:before {width: 85px; height: 90px; background: url(../images/icn_1-4.png)no-repeat center center;}
+/*#container .service .inner>ul>li:nth-child(1)>a:before {width: 86px; height: 84px; background: url(../images/icn_1-1.png)no-repeat center center;}*/
+/*#container .service .inner>ul>li:nth-child(2)>a:before {width: 91px; height: 80px; background: url(../images/icn_1-2.png)no-repeat center center;}*/
+/*#container .service .inner>ul>li:nth-child(3)>a:before {width: 82px; height: 79px; background: url(../images/icn_1-3.png)no-repeat center center;}*/
+/*#container .service .inner>ul>li:nth-child(4)>a:before {width: 85px; height: 90px; background: url(../images/icn_1-4.png)no-repeat center center;}*/
 /* #container .service .inner>ul>li:nth-child(5)>a:before {width: 71px; height: 83px; background: url(../images/icn_1-5.png)no-repeat center center;} */
 /* #container .service .inner>ul>li:nth-child(6)>a:before {width: 65px; height: 83px; background: url(../images/icn_1-6.png)no-repeat center center;} */
 

@@ -31,34 +31,22 @@
         <a href="company.php#container">본문바로가기</a>
     </div>
     <div id="wrap">
-        		<header id="header">
-            <div class="top">
-                <div class="inner">
-                   <!--  <p class="phone">
-                        고객만족 <span>100% </span> 고객센터
-                    </p> -->
-                    <p class="number mt_30">031-922-0025</p>
-                    <h1 class="top_logo">
-                        <a href="index.php">
-                            <img src="./assets/top_logo.png" alt="상단로고">
-                        </a>
-                    </h1>
-                </div>
-            </div>
+        <header id="header">
             <div class="bottom">
                 <div class="inner">
                     <ul class="gnb">
+                        <li class="off"><a href="/">홈</a></li>
                         <li class="on"><a href="company.php">회사소개</a></li>
                         <li class="off"><a href="service.php">서비스안내</a></li>
                         <li class="off"><a href="employ.php">구인회원</a></li>
                         <li class="off"><a href="price.php">요금고지사항</a></li>
                         <li class="off"><a href="work.php">구직회원</a></li>
                         <li class="off"><a href="location.php">찾아오시는 길</a></li>
-
                     </ul>
                 </div>
             </div>
-        </header>        <main id="container" class="sub">
+        </header>
+        <main id="container" class="sub">
             <section class="visual">
 				<div class="inner">
 					<h2 class="tit">회사소개</h2>
@@ -214,8 +202,8 @@
 		</div> 			<a href="company.php#" class="btn_top"></a>    </div>
 	<script>
 		(function() {
-			$(".gnb > li:nth-child(1)").addClass("on");
-			$(".gnb > li:nth-child(1)").removeClass("off").siblings("li").addClass("off");
+			$(".gnb > li:nth-child(2)").addClass("on");
+			$(".gnb > li:nth-child(2)").removeClass("off").siblings("li").addClass("off");
 		})();
 	</script>
     <script src="./assets/main.js"></script>

@@ -32,22 +32,11 @@
     </div>
     <div id="wrap">
         		<header id="header">
-            <div class="top">
-                <div class="inner">
-                   <!--  <p class="phone">
-                        고객만족 <span>100% </span> 고객센터
-                    </p> -->
-                    <p class="number mt_30">031-922-0025</p>
-                    <h1 class="top_logo">
-                        <a href="index.php">
-                            <img src="./assets/top_logo.png" alt="상단로고">
-                        </a>
-                    </h1>
-                </div>
-            </div>
+
             <div class="bottom">
                 <div class="inner">
                     <ul class="gnb">
+                        <li class="off"><a href="/">홈</a></li>
                         <li class="off"><a href="company.php">회사소개</a></li>
                         <li class="off"><a href="service.php">서비스안내</a></li>
                         <li class="on"><a href="employ.php">구인회원</a></li>
@@ -218,8 +207,8 @@
 			</div>
 		</div> 			<a href="employ.php#" class="btn_top"></a>			<script>
 				(function() {
-					$(".gnb > li:nth-child(3)").addClass("on");
-					$(".gnb > li:nth-child(3)").removeClass("off").siblings("li").addClass("off");
+					$(".gnb > li:nth-child(4)").addClass("on");
+					$(".gnb > li:nth-child(4)").removeClass("off").siblings("li").addClass("off");
 				})();
 			</script>
     </div>
