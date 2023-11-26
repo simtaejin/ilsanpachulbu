@@ -74,6 +74,7 @@
                             <li>식당 서비스</li>
                         </ul>
                     </div>
+
                     <div class="img_wrap" style=" width: 540px;margin-left: 50px;">
                         <div class="price_top" style="border-color: #9fde46" >
                             <h3 >가정일</h3>
