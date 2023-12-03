@@ -66,38 +66,55 @@
                     <div class="list_wrap pr_40" style="border: 1px solid #9fde46;border-radius: 20px; padding: 40px 40px; width: 540px;">
                         <h3> <strong>서비스</strong></h3>
                         <ul>
-                            <li>가사 서비스</li>
-                            <li>육아 가사</li>
-                            <li>산후 가사</li>
-                            <li>실버 가사</li>
-                            <li>가정 간병</li>
-                            <li>식당 서비스</li>
+                            <li><a href="./service.php">가사 서비스</a></li>
+                            <li><a href="./service.php">육아 가사</a></li>
+                            <li><a href="./service.php">산후 가사</a></li>
+                            <li><a href="./service.php">실버 가사</a></li>
+                            <li><a href="./service.php">가정 간병</a></li>
+                            <li><a href="./service.php">식당 서비스</a></li>
                         </ul>
                     </div>
 
                     <div class="img_wrap" style=" width: 540px;margin-left: 50px;">
-                        <div class="price_top" style="border-color: #9fde46" >
+                        <div class="price_top" style="border-color: #9fde46; height: 180px;" >
                             <h3 >가정일</h3>
-                            <p>대표전화 : 031) 922-0025</p>
-                            <span >서비스 가능 지역 : 고양, 파주</span>
+
+                            <p style="padding-top: 20px">
+                            <span style="color: #be2626; width: 50%; font-size: 32px; font-weight: 500;">031) 922 - 0025</span>
+                                <span style="border: 0px solid red;width: 50%; font-size: 32px; font-weight: 300;padding-left: 80px">대표전화&nbsp;&nbsp;:&nbsp;&nbsp;</span>
+                            </p>
+
+                            <div  style="border-radius: 20px; width: 240px;margin: 50px auto;text-align: center; height: 40px; line-height: 40px;background-color:#f69ee3; color: #ffffff ">
+                                서비스 가능 지역 : 고양, 파주
+                            </div>
+
+
                         </div>
-                        <div class="price_top" style="border-color: #9fde46;margin-top: 40px" >
+                        <div class="price_top" style="margin-top:40px; border-color: #9fde46; height: 180px;" >
                             <h3 >식당일</h3>
-                            <p>대표전화 : 031) 922-0073</p>
-                            <span >서비스 가능 지역 : 고양, 파주</span>
+
+                            <p style="padding-top: 20px">
+                                <span style="color: #be2626; width: 50%; font-size: 32px; font-weight: 500;">031) 922 - 0073</span>
+                                <span style="border: 0px solid red;width: 50%; font-size: 32px; font-weight: 300;padding-left: 80px">대표전화&nbsp;&nbsp;:&nbsp;&nbsp;</span>
+                            </p>
+
+                            <div  style="border-radius: 20px; width: 240px;margin: 50px auto;text-align: center; height: 40px; line-height: 40px;background-color:#f69ee3; color: #ffffff ">
+                                서비스 가능 지역 : 고양, 파주
+                            </div>
                         </div>
 
-                        <div class="price_top" style="border-color: #9fde46;margin-top: 40px" >
-                            <h3 >기업은행 (일산파출부)</h3>
-                            <p>031-922-0025</p>
-
+                        <div class="price_top" style="border-color: #9fde46;margin-top: 40px;height: 160px;" >
+                            <img  src="./assets/h1_logo_sub.gif">
+                            <p style="padding-top: 20px">
+                                <span style="color: #1d6fe0; width: 50%; font-size: 32px; font-weight: 500;">031) 922 - 0025</span>
+                            </p>
                         </div>
 
-
-                        <div class="price_top" style="border-color: #9fde46;margin-top: 40px" >
-                            <h3 >일산 파출부</h3>
-                            <p>일산을 대표하는 파출부</p>
-                        </div>
+<!---->
+<!--                        <div class="price_top" style="border-color: #9fde46;margin-top: 40px" >-->
+<!--                            <h3 >일산 파출부</h3>-->
+<!--                            <p>일산을 대표하는 파출부</p>-->
+<!--                        </div>-->
                     </div>
                 </div>
 

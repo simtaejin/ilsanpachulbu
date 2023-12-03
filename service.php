@@ -9,7 +9,7 @@
     <meta property="og:type" content="웹페이지">
     <meta property="og:title" content="웹페이지">
     <meta property="og:description" content="웹페이지">
-    <title>일산여성파출부</title>
+    <title>일산파출부</title>
     <!-- 폰트 -->
     <link href="./assets/SpoqaHanSansNeo.css" rel="stylesheet" type="text/css">
     <link href="./assets/css2" rel="stylesheet">
@@ -175,25 +175,7 @@
                     </div>
 				</div>
             </section>
-            <section class="info">
-                <div class="inner">
-                    <ul class="tbl">
-                        <li>
-                            <h3 class="col_025">정성가득한 서비스</h3>
-                            <p class="mt_10 col_025">고객님만을 위한 일산여성파출부만의<br>차별화된 서비스로 최선을 다해 모시겠습니다</p>
-                            <em class="mt_30">기업은행 <em style="display: inline-block;"> (일산파출부)</em></em>
-                            <span class="mt_5">031-922-0025</span>
-                        </li>
-                        <li>
-                            <h3>전화상담 안내</h3>
-                            <p class="mt_10">평일:오전07:00~오후10:00<br>토요일:오전07:00~오후10:00</p>
-                            <em class="mt_30">업무시간외에도 도우미가 필요하신분은</em>
-                            <span class="mt_5">031-922-0025</span>
-                        </li>
-                        <li><img src="./assets/banner_2.jpg" alt="배너_2"></li>
-                    </ul>
-                </div>
-            </section>
+
         </main>
 					<footer id="footer">
             <div class="top">

@@ -9,7 +9,7 @@
     <meta property="og:type" content="웹페이지">
     <meta property="og:title" content="웹페이지">
     <meta property="og:description" content="웹페이지">
-    <title>일산여성파출부</title>
+    <title>일산파출부</title>
     <!-- 폰트 -->
     <link href="./assets/SpoqaHanSansNeo.css" rel="stylesheet" type="text/css">
     <link href="./assets/css2" rel="stylesheet">
@@ -61,12 +61,16 @@
 							<ul class="gujik_list clearfix mt_10">
 								<li class="">
 									<ul>
-										<li>1.   근무 경력자 우대합니다. 초보도 가능합니다. 성실하고 책임감이 강하신 신체 건강한 분은 언제든 환영합니다.</li>
-										<li>2.   청소 반찬 육아 실버등 능력을 갖추신 분 우대합니다.</li>
-										<li>3.   고객과의 상호 긍정적이고 협조적인 분.</li>
-										<li>4.   인성 , 교양 , 직업의식이 강하고 방문시 본인 신분증 등본 지참하셔야합니다</li>
-										<li>5.   본인의 일이라고 생각하며 고객과의 약속시간을 잘 지키고 업무에 최선을 다하는 분</li>
-										<li>구직 관련에 관하여는 전화 문의 또는 직접 방문 부탁드립니다. 방문 시 서류(본인 신분증, 등본, 등이 필요합니다.) 구직 결정 후 서류를 제출하여 주시기를 바랍니다</li>
+										<li>1.   착하고 성실하며 신청 건강한 분.</li>
+										<li>2.   오랜동안 꾸준히 구직활동을 할수 있는 분.</li>
+										<li>3.   시간을 잘 지키고 업무를 잘 이해하며 일 할수 있는 분.</li>
+										<li>4.   전화문의 또는 직접 방문</li>
+										<li>5.   1:1 면담을 통하여 구직결정</li>
+										<li>6.   구직결정후 서류제출</li>
+										<li>7.   방문시 서류</li>
+										<li>&nbsp;&nbsp;&nbsp;&nbsp;  -   본인 신분증</li>
+										<li>&nbsp;&nbsp;&nbsp;&nbsp;  -   등본</li>
+										<li>&nbsp;&nbsp;&nbsp;&nbsp;  -   회비</li>
 									</ul>
 								</li>
 								<li class="">
@@ -79,33 +83,15 @@
 					</div>
 					<div class="bl_box mt_70 flex_b">
 						<dl>
-							<dt>구직회원 등록 진행절차안내</dt>
-							<dd>Step . 01 회사방문/면접</dd>
-							<dd>Step . 02 차후 일 배정</dd>
+							<dt>서류준비 회사방문</dt>
+							<dd>Step . 01 전화로 일 배정</dd>
+							<dd>Step . 02 정보교환, 유대관계, 업무차 방문</dd>
 							<!-- <dd>Step . 03 정보교환 및 유대관계 업무차 방문</dd> -->
 						</dl>
 					</div>
 				</div>
             </section>
-            			<section class="info">
-                <div class="inner">
-                    <ul class="tbl">
-                        <li>
-                            <h3 class="col_025">정성가득한 서비스</h3>
-                            <p class="mt_10 col_025">고객님만을 위한 일산여성파출부만의<br>차별화된 서비스로 최선을 다해 모시겠습니다</p>
-                            <em class="mt_30">기업은행 <em style="display: inline-block;"> (일산파출부)</em></em>
-                            <span class="mt_5">031-922-0025</span>
-                        </li>
-                        <li>
-                            <h3>전화상담 안내</h3>
-                            <p class="mt_10">평일:오전08:00~오후07:00<br>토요일:오전08:00~오후03:00</p>
-                            <em class="mt_30">업무시간외에도 도우미가 필요하신분은</em>
-                            <span class="mt_5">031-922-0025</span>
-                        </li>
-                        <li><img src="./assets/banner_2.jpg" alt="배너_2"></li>
-                    </ul>
-                </div>
-            </section>        </main>
+           </main>
 					<footer id="footer">
             <div class="top">
                 <div class="inner">

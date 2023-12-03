@@ -9,7 +9,7 @@
     <meta property="og:type" content="웹페이지">
     <meta property="og:title" content="웹페이지">
     <meta property="og:description" content="웹페이지">
-    <title>일산여성파출부</title>
+    <title>일산파출부</title>
     <!-- 폰트 -->
     <link href="./assets/SpoqaHanSansNeo.css" rel="stylesheet" type="text/css">
     <link href="./assets/css2" rel="stylesheet">
@@ -58,17 +58,14 @@
 						<div class="tbl_cell">
 							<h3 class="company_tit">좋은 사람들이 함께모여<br>
 								<strong>오랜인연을 맺는곳...</strong></h3>
-								<p class="company_txt mt_60 pr_20">안녕하십니까. <br>
-고객의 믿음과 신뢰를 바탕으로 매일 매일 발전하는 일산파출부 입니다.<br>
-<br>
-저희 일산파출부는 오랜 경험을 바탕으로 체계적인 운영시스템을 도입하여 도우미분들의
-효울적인 업무를 위한 교육과 서비스 정신을 항상 강조하여 고객분들에게 서비스르 제공하고
-있습니다.<br><br>
+								<p class="company_txt mt_60 pr_20">고객님 안녕하세요. <br>
+저희 일산 파출부는 전문프로그램과 철저한 관리 시스템을 통하여<br>
+항상 업그레이드된 업무내용을 고욕하고 있습니다.<br><br>
 
-저희 일산파출부는 각업무에 최적화된 업무별 전문 도우미를 보유하여 고객 맞춤 서비스를 제공합니다.<br>
-그리고 고객 이용 시 불만족 발생 경우 본사 상담을 통하여 바로 교체해드리고 있습니다.<br>
+사랑과 믿음, 신뢰를 바탕으로 전문적인 회사로 거듭나기 위하여 노력하며<br>
+고객여러분 모두가 만족할 수 있는 서비스로 한층 더 다가가겠습니다.<br>
 <br>
-항상 지금에 만족하지 않고 새롭게 변해가는 시대에 맞추어 차별화된 전문성과 교육시스템으로 저희 일산여성파출부를 이용하시는 모든 분들에게 웃음과 행복을 드리겠습니다.<br><br>
+저희 홈페이지를 방문하시는 고객님들께 보다좋은일이 늘 함께하시길 바라며...<br><br>
 
 감사합니다..
 
@@ -81,25 +78,7 @@
 					</div>
 				</div>
             </section>
-            			<section class="info">
-                <div class="inner">
-                    <ul class="tbl">
-                        <li>
-                            <h3 class="col_025">정성가득한 서비스</h3>
-                            <p class="mt_10 col_025">고객님만을 위한 일산여성파출부만의<br>차별화된 서비스로 최선을 다해 모시겠습니다</p>
-                            <em class="mt_30">기업은행 <em style="display: inline-block;"> (일산파출부)</em></em>
-                            <span class="mt_5">031-922-0025</span>
-                        </li>
-                        <li>
-                            <h3>전화상담 안내</h3>
-                            <p class="mt_10">평일:오전08:00~오후07:00<br>토요일:오전08:00~오후03:00</p>
-                            <em class="mt_30">업무시간외에도 도우미가 필요하신분은</em>
-                            <span class="mt_5">031-922-0025</span>
-                        </li>
-                        <li><img src="./assets/banner_2.jpg" alt="배너_2"></li>
-                    </ul>
-                </div>
-            </section>        </main>
+          </main>
 					<footer id="footer">
             <div class="top">
                 <div class="inner">
