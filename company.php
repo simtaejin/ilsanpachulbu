@@ -35,7 +35,9 @@
             <div class="bottom">
                 <div class="inner">
                     <ul class="gnb">
-                        <li class="off"><a href="/">홈</a></li>
+                        <li class="off">
+                            <a href="/" style="font-size: 40px;text-align:right;margin-right: 10px;font-weight: 900;color: #000000">일산파출부</a>
+                        </li>
                         <li class="on"><a href="company.php">회사소개</a></li>
                         <li class="off"><a href="service.php">서비스안내</a></li>
                         <li class="off"><a href="employ.php">구인회원</a></li>
@@ -60,7 +62,7 @@
 								<strong>오랜인연을 맺는곳...</strong></h3>
 								<p class="company_txt mt_60 pr_20">고객님 안녕하세요. <br>
 저희 일산 파출부는 전문프로그램과 철저한 관리 시스템을 통하여<br>
-항상 업그레이드된 업무내용을 고욕하고 있습니다.<br><br>
+항상 업그레이드된 업무내용을 교욕하고 있습니다.<br><br>
 
 사랑과 믿음, 신뢰를 바탕으로 전문적인 회사로 거듭나기 위하여 노력하며<br>
 고객여러분 모두가 만족할 수 있는 서비스로 한층 더 다가가겠습니다.<br>

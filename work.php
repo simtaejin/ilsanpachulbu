@@ -35,7 +35,9 @@
             <div class="bottom">
                 <div class="inner">
                     <ul class="gnb">
-                        <li class="off"><a href="/">홈</a></li>
+                        <li class="off">
+                            <a href="/" style="font-size: 40px;text-align:right;margin-right: 10px;font-weight: 900;color: #000000">일산파출부</a>
+                        </li>
                         <li class="off"><a href="company.php">회사소개</a></li>
                         <li class="off"><a href="service.php">서비스안내</a></li>
                         <li class="off"><a href="employ.php">구인회원</a></li>
@@ -61,7 +63,7 @@
 							<ul class="gujik_list clearfix mt_10">
 								<li class="">
 									<ul>
-										<li>1.   착하고 성실하며 신청 건강한 분.</li>
+										<li>1.   착하고 성실하며 신체 건강한 분.</li>
 										<li>2.   오랜동안 꾸준히 구직활동을 할수 있는 분.</li>
 										<li>3.   시간을 잘 지키고 업무를 잘 이해하며 일 할수 있는 분.</li>
 										<li>4.   전화문의 또는 직접 방문</li>

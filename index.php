@@ -40,6 +40,9 @@
         <div class="bottom">
             <div class="inner">
                 <ul class="gnb">
+                    <li>
+                        <a href="/" style="font-size: 40px;text-align:right;margin-right: 10px;font-weight: 900;">일산파출부</a>
+                    </li>
                     <li><a href="company.php">회사소개</a></li>
                     <li><a href="service.php">서비스안내</a></li>
                     <li><a href="employ.php">구인회원</a></li>

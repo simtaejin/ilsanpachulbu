@@ -35,7 +35,9 @@
             <div class="bottom">
                 <div class="inner">
                     <ul class="gnb">
-                        <li class="off"><a href="/">홈</a></li>
+                        <li class="off">
+                            <a href="/" style="font-size: 40px;text-align:right;margin-right: 10px;font-weight: 900;color: #000000">일산파출부</a>
+                        </li>
                         <li class="off"><a href="company.php">회사소개</a></li>
                         <li class="off"><a href="service.php">서비스안내</a></li>
                         <li class="off"><a href="employ.php">구인회원</a></li>
