@@ -9,7 +9,7 @@
     <meta property="og:type" content="웹페이지">
     <meta property="og:title" content="웹페이지">
     <meta property="og:description" content="웹페이지">
-    <title>일산여성파출부</title>
+    <title>일산파출부</title>
     <!-- 폰트 -->
     <link href='//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
@@ -109,7 +109,7 @@
                         <div class="price_top" style="border-color: #9fde46;margin-top: 40px;height: 160px;" >
                             <img  src="./assets/h1_logo_sub.gif">
                             <p style="padding-top: 20px">
-                                <span style="color: #1d6fe0; width: 50%; font-size: 32px; font-weight: 500;">031) 922 - 0025</span>
+                                <span style="color: #1d6fe0;  font-size: 32px; font-weight: 500;">예금주 : 일산파출부 이경림</span>
                             </p>
                         </div>
 
