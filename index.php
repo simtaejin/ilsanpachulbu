@@ -106,9 +106,10 @@
                             </div>
                         </div>
 
-                        <div class="price_top" style="border-color: #9fde46;margin-top: 40px;height: 160px;" >
+                        <div class="price_top" style="border-color: #9fde46;margin-top: 40px;height: 200px;" >
                             <img  src="./assets/h1_logo_sub.gif">
                             <p style="padding-top: 20px">
+                                <span style="color: #1d6fe0;  font-size: 32px; font-weight: 500;">031&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;922&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;0025</span><br><br><br>
                                 <span style="color: #1d6fe0;  font-size: 32px; font-weight: 500;">예금주 : 일산파출부 이경림</span>
                             </p>
                         </div>
