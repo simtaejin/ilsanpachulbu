@@ -66,20 +66,20 @@
             <div class="inner">
 <!--                .price_top {height: 94px;}-->
                 <div class="grid mt_30 clearfix" >
-                    <div class="list_wrap pr_40" style="border: 1px solid #9fde46;border-radius: 20px; padding: 40px 40px; width: 540px;">
-                        <h3> <strong>서비스</strong></h3>
-                        <ul>
-                            <li><a href="./service.php">가사 서비스</a></li>
-                            <li><a href="./service.php">육아 가사</a></li>
-                            <li><a href="./service.php">산후 가사</a></li>
-                            <li><a href="./service.php">실버 가사</a></li>
-                            <li><a href="./service.php">가정 간병</a></li>
-                            <li><a href="./service.php">식당 서비스</a></li>
+                    <div class="list_wrap pr_40" style="border: 0px solid #9fde46;border-radius: 20px; padding: 140px 180px; height: 640px; width: 540px; background: no-repeat  url('/images/background-2015463_1920.jpg' );  background-size: cover ">
+                        <h3> <strong> 일산파출부 </strong></h3>
+                        <ul >
+                            <li style="font-size: 25px;"><a href="./service.php">가사 서비스</a></li>
+                            <li style="font-size: 25px;"><a href="./service.php">육아 가사</a></li>
+                            <li style="font-size: 25px;"><a href="./service.php">산후 가사</a></li>
+                            <li style="font-size: 25px;"><a href="./service.php">실버 가사</a></li>
+                            <li style="font-size: 25px;"><a href="./service.php">가정 간병</a></li>
+                            <li style="font-size: 25px;"><a href="./service.php">식당 서비스</a></li>
                         </ul>
                     </div>
 
                     <div class="img_wrap" style=" width: 540px;margin-left: 50px;">
-                        <div class="price_top" style="border-color: #9fde46; height: 180px;" >
+                        <div class="price_top" style="border-color: #8AD4DB; height: 180px;" >
                             <h3 >가정일</h3>
 
                             <p style="padding-top: 20px">
@@ -93,7 +93,7 @@
 
 
                         </div>
-                        <div class="price_top" style="margin-top:40px; border-color: #9fde46; height: 180px;" >
+                        <div class="price_top" style="margin-top:40px; border-color: #8AD4DB; height: 180px;" >
                             <h3 >식당일</h3>
 
                             <p style="padding-top: 20px">
@@ -106,19 +106,15 @@
                             </div>
                         </div>
 
-                        <div class="price_top" style="border-color: #9fde46;margin-top: 40px;height: 200px;" >
-                            <img  src="./assets/h1_logo_sub.gif">
-                            <p style="padding-top: 20px">
-                                <span style="color: #1d6fe0;  font-size: 32px; font-weight: 500;">031&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;922&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;0025</span><br><br><br>
-                                <span style="color: #1d6fe0;  font-size: 32px; font-weight: 500;">예금주 : 일산파출부 이경림</span>
+                        <div class="price_top" style="border-color: #8AD4DB;margin-top: 40px;height: 200px;text-align: center" >
+                            <img  src="./assets/h1_logo_sub.gif" style="width:200px; height: 50px; ">
+                            <p style="padding-top: 20px; padding-right: 30px;">
+                                <span style="color: #1d6fe0;  font-size: 32px; font-weight: 500;">계좌번호 : &nbsp;&nbsp;&nbsp;&nbsp;031&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;922&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;0025</span><br><br><br>
+                                <span style="color: #1d6fe0;  font-size: 32px; font-weight: 500;">예금주 : 일산파출부&nbsp;&nbsp; (이경림) &nbsp;&nbsp;&nbsp;</span>
                             </p>
                         </div>
 
-<!---->
-<!--                        <div class="price_top" style="border-color: #9fde46;margin-top: 40px" >-->
-<!--                            <h3 >일산 파출부</h3>-->
-<!--                            <p>일산을 대표하는 파출부</p>-->
-<!--                        </div>-->
+
                     </div>
                 </div>
 
