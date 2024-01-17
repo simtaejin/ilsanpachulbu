@@ -51,7 +51,7 @@
         <main id="container" class="sub">
             <section class="visual">
 				<div class="inner">
-					<h2 class="tit">회사소개</h2>
+					<!-- <h2 class="tit">회사소개</h2> -->
 				</div>
             </section>
             <section class="contents">
@@ -61,25 +61,30 @@
 							<h3 class="company_tit">좋은 사람들이 함께모여<br>
 								<strong>오랜인연을 맺는곳...</strong></h3>
 								<p class="company_txt mt_60 pr_20">고객님 안녕하세요. <br>
-저희 일산 파출부는 전문프로그램과 철저한 관리 시스템을 통하여<br>
-항상 업그레이드된 업무내용을 교육하고 있습니다.<br><br>
+                                저희 일산 파출부는 전문프로그램과 철저한 관리 시스템을 통하여<br>
+                                항상 업그레이드된 업무내용을 교육하고 있습니다.<br><br>
 
-사랑과 믿음, 신뢰를 바탕으로 전문적인 회사로 거듭나기 위하여 노력하며<br>
-고객여러분 모두가 만족할 수 있는 서비스로 한층 더 다가가겠습니다.<br>
-<br>
-저희 홈페이지를 방문하시는 고객님들께 보다좋은일이 늘 함께하시길 바라며...<br><br>
+                                사랑과 믿음, 신뢰를 바탕으로 전문적인 회사로 거듭나기 위하여 노력하며<br>
+                                고객여러분 모두가 만족할 수 있는 서비스로 한층 더 다가가겠습니다.<br>
+                                <br>
+                                저희 홈페이지를 방문하시는 고객님들께 보다좋은일이 늘 함께하시길 바라며...<br><br>
 
-감사합니다..
+                                감사합니다..
 
-<br><br>
-</p>
+                                <br><br>
+                                <div style="text-align:center;font-size:20px;">
+                                    일산 파출부
+                                </div>
+                                </p>
 						</div>
 						<div class="tbl_cell" style="width: 460px;">
 							<img src="./images/company.jpg" alt="회사이미지">
 						</div>
 					</div>
 				</div>
+              
             </section>
+            
           </main>
 					<footer id="footer">
             <div class="top">

@@ -52,14 +52,16 @@
         </header>        <main id="container" class="sub">
             <section class="visual">
 				<div class="inner">
-					<h2 class="tit">구인회원</h2>
+					<!-- <h2 class="tit">구인회원</h2> -->
 				</div>
             </section>
             <section class="contents">
 				<div class="inner">
 					<div class="_tbl">
-						<div class="img"><img src="./images/guin_inform.jpg" alt="구인페이지_이미지"></div>
-						<div class="cell2_pd">
+						<div class="img">
+                            <img src="./images/guin_inform.jpg" alt="구인페이지_이미지">
+                        </div>
+						<div class="cell2_pd" style="padding-left:80px;">
 							<h3 class="guin_tit">구인회원안내</h3>
 <!--							<p class="guin_txt_1 mt_10">도우미의 서비스 요금은 후불입니다. 일을 다 끝낸 후 지급하여 주시기를 부탁드립니다.<br>-->
 <!--							도우미는 여러분의 일을 도와드리는 가족입니다. 가족에게 폭언과 상처를 주시는 일을 없도록 부탁드립니다.</p>-->

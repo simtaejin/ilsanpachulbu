@@ -127,7 +127,7 @@ input[type="checkbox"]:checked + label>span {background: url(../images/checked.p
 #footer .bottom .inner .txt_wrap p>span {color: #333333;}
 
 /* 서브페이지 */
-.sub .visual {height: 299px; background: url(../images/sub_visN.jpg)no-repeat 50%; background-size: cover;}
+.sub .visual {height: 799px; background: url(../images/sub_visN.jpg)no-repeat 50%; background-size: cover;}
 .sub .visual .inner {display: flex; height: 299px; justify-content:flex-start; align-items: center;}
 .sub .visual .tit {font-size: 50px; font-weight: 300; color: #282828;}
 
@@ -149,7 +149,7 @@ input[type="checkbox"]:checked + label>span {background: url(../images/checked.p
 .grid .list_wrap h3 strong {font-weight: 500;}
 .grid .list_wrap p {font-size: 24px; color: #272727; line-height: 30px; font-weight: 300; letter-spacing: -0.05em; margin-top: 30px;}
 .grid .list_wrap ul {margin-top: 30px;}
-.grid .list_wrap ul>li {padding-left: 40px; line-height: 20px; color: #5d5d5d; font-size: 16px; margin-bottom: 20px; position: relative;}
+.grid .list_wrap ul>li {padding-left: 40px; line-height: 20px; color: #3b3b3b; font-size: 16px; margin-bottom: 20px; position: relative;}
 .grid .list_wrap ul>li:before {content: ''; position: absolute; left: 4px; top: -3px; width: 24px; height: 24px; border-radius: 50%; background: #636d75; color: #ffffff; line-height: 24px; text-align: center; font-size: 14px;}
 
 .grid .list_wrap ul>li:nth-child(1):before {content: '1';}
@@ -262,7 +262,7 @@ input[type="checkbox"]:checked + label>span {background: url(../images/checked.p
 .pop2 .btn_close {position: absolute; right: 30px; top: 30px; width: 23px; height: 23px; background: url(../images/btn_close.png)no-repeat 50% 50%; text-indent: -9999px; border: none;}
 
 ._tbl {display:table; table-layout: fixed; width: 100%;}
-._tbl>div {display: table-cell; vertical-align: top;}
+._tbl>div {display: table-cell; vertical-align: middle;}
 ._tbl>div.img {width: 430px;}
 
 .guin_tit {font-size: 25px; font-weight: 500; letter-spacing: -0.075em; color: #00417e;}
@@ -271,7 +271,7 @@ input[type="checkbox"]:checked + label>span {background: url(../images/checked.p
 
 .cell2_pd {padding: 50px 0 0 40px;}
 
-.price_top {height: 94px; border: 1px solid #dbdbdb; border-radius: 20px; padding: 20px 45px 20px 30px;}
+.price_top {height: 94px; border: 3px solid #ffb3b3; border-radius: 20px; padding: 20px 45px 20px 30px;}
 .price_top h3 {font-size: 20px; font-weight: 400; letter-spacing: -0.075em; color: #3b3b3b; line-height: 1;}
 .price_top p {font-size: 16px; font-weight: 400; letter-spacing: -0.075em; color: #7c7c7c; line-height: 1; margin-top: 16px;}
 .price_top span {margin-top: -20px; font-size: 16px; font-weight: 400; letter-spacing: -0.075em; color: #3c3c3c; float: right;}
@@ -280,7 +280,7 @@ input[type="checkbox"]:checked + label>span {background: url(../images/checked.p
 .p24 .price_tit {font-size: 18px; font-weight: 500; letter-spacing: -0.075em; color: #3b3b3b; position: relative;}
 .p24 .price_tit:before {content: ''; position: absolute; left: -20px; width: 11px; height: 11px; background: #1de1ef; border-radius: 50%; top: 8px;}
 .p24 .price_m_tit {font-size: 17px; color: #00417e; font-weight: 400; letter-spacing: -0.075em;}
-.p24 .price_list li {font-size: 14px; color: #656565; letter-spacing: -0.075em; line-height: 28px;}
+.p24 .price_list li {font-size: 14px; color: #3b3b3b; letter-spacing: -0.075em; line-height: 28px;}
 
 dl.price_list dt {font-size: 14px; color: #3b3b3b; font-weight: 500; letter-spacing: -0.075em; line-height: 28px;}
 dl.price_list dd {font-size: 14px; color: #656565; letter-spacing: -0.075em; line-height: 28px;}
@@ -290,7 +290,7 @@ dl.price_list dd {font-size: 14px; color: #656565; letter-spacing: -0.075em; lin
 /* .gujik_list>li {width: 50%;} */
 .gujik_list>li>ul>li {font-size:15px; font-weight:400; letter-spacing: -0.075em; line-height: 38px; color: #3b3b3b;}
 
-.bl_box {height: 100px; border: 1px solid #9ec5e9; border-radius: 20px;}
+.bl_box {height: 100px; border: 3px solid #ffb3b3; border-radius: 20px;}
 .bl_box dl dt {display: inline-block; font-size: 18px; color: #00417e; font-weight: 500; letter-spacing: -0.075em; margin: 0 15px 0 0;}
 .bl_box dl dd {display: inline-block; font-size: 17px; font-weight: 400; color: #3b3b3b; letter-spacing: -0.075em; margin: 0 15px 0 0;}
 .bl_box dl dd:before {content: ''; display: inline-block; width: 14px; height: 13px; vertical-align: middle; background: url(../images/d_arrow.png)no-repeat; margin-right: 15px;}

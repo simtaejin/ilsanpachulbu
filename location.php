@@ -51,7 +51,7 @@
         </header>        <main id="container" class="sub">
             <section class="visual">
 				<div class="inner">
-					<h2 class="tit">찾아오시는 길</h2>
+					<!-- <h2 class="tit">찾아오시는 길</h2> -->
 				</div>
             </section>
             <section class="contents">

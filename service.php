@@ -52,7 +52,7 @@
         <main id="container" class="sub">
             <section class="visual">
 				<div class="inner">
-					<h2 class="tit">서비스안내</h2>
+					<!-- <h2 class="tit">서비스안내</h2> -->
 				</div>
             </section>
             <section class="contents">
@@ -60,7 +60,7 @@
 					<div class="grid clearfix">
                         <div class="img_wrap"><img src="./images/service1.jpg" alt=""></div>
 						<div class="list_wrap pl_40">
-							<h3>가사 <strong>서비스</strong></h3>
+							<h3><strong>가사 서비스</strong></h3>
 							<p>주부님들의 집안일에 일손이 필요한 경우 도와드립니다.</p>
 							<ul>
 								<li>맞벌이와 초보엄마로서 가정일이 힘든 경우</li>
@@ -74,7 +74,7 @@
 					</div>
 					<div class="grid mt_100 clearfix">
 						<div class="list_wrap pr_40">
-							<h3>청소 <strong>서비스</strong></h3>
+							<h3><strong>청소 서비스</strong></h3>
 							<ul>
 								<li>청소도구는 고객이 준비하는 것이 원칙 (필요시 별도부담) 입니다.</li>
 								<li>비용은 저렴하고 서비스는 꼼꼼하게 해드립니다.</li>
@@ -89,7 +89,7 @@
 					<div class="grid mt_100 clearfix">
                         <div class="img_wrap"><img src="./images/service3.jpg" alt=""></div>
 						<div class="list_wrap pl_40">
-							<h3>김장 • 설 • 추석</h3>
+							<h3><strong>김장 • 설 • 추석</strong></h3>
 							<p>겨울철 김장담그는데 주부님들의 힘드신일을 도우미가 함께 해드립니다.</p>
 							<ul>
 								<li>겨울김장을 담궈야할때 필요한 일손을 덜어드립니다.</li>
@@ -102,7 +102,7 @@
 					</div>
 					<div class="grid mt_100 clearfix">
 						<div class="list_wrap pr_40">
-							<h3>육아가사 <strong>서비스</strong></h3>
+							<h3><strong>육아가사 서비스</strong></h3>
 							<p>육아와 가사를 함께 원하는 경우 도와드립니다.</p>
 							<ul>
 								<li>육아와 가사를 함께 병행하여 드립니다.</li>
@@ -116,7 +116,7 @@
                     <div class="grid mt_100 clearfix">
                         <div class="img_wrap"><img src="./images/service5.jpg" alt=""></div>
                         <div class="list_wrap pl_40">
-                            <h3>산후 <strong>서비스</strong></h3>
+                            <h3><strong>산후 서비스</strong></h3>
                             <p>산후에 아기와 함께 좀더 휴식을 갖고져 할 경우 쉴 수 있도록 도와드립니다.</p>
                             <ul>
                                 <li>청소는 기본적으로 깔끔하게 해 드립니다.</li>
@@ -130,7 +130,7 @@
 
                     <div class="grid mt_100 clearfix">
                         <div class="list_wrap pr_40">
-                            <h3>실버가사 <strong>서비스</strong></h3>
+                            <h3><strong>실버가사 서비스</strong></h3>
                             <p>가정에서 어르신분들의 힘든일을 위하여 도우미가 도와드립니다.</p>
                             <ul>
                                 <li>가정일을 어르신이 하시기 힘든 경우 대신하여 드립니다.</li>
@@ -144,7 +144,7 @@
                     <div class="grid mt_100 clearfix">
                         <div class="img_wrap"><img src="./images/service7.jpg" alt=""></div>
                         <div class="list_wrap pl_40">
-                            <h3>가정간병 <strong>서비스</strong></h3>
+                            <h3><strong>가정간병 서비스</strong></h3>
                             <p>거동이 불편하거나 아프신 분들을 위한 도우미를 보내드립니다.</p>
                             <ul>
                                 <li>간병경험이 있으신 분들을 우선적으로 보내드립니다.</li>
@@ -160,7 +160,7 @@
                     <div class="grid mt_100 clearfix">
 
                         <div class="list_wrap pr_40">
-                            <h3>식당 <strong>서비스</strong></h3>
+                            <h3><strong>식당 서비스</strong></h3>
 <!--                            <p>모든 음식 업소에서 각종 모든 업무에 척척 도움을 드리는 전문 식당 도우미입니다</p>-->
                             <p>홀, 주방, 찬모, 주방장, 숯장치, 카운터 주차관리.</p>
                             <ul>
