@@ -66,7 +66,7 @@
             <div class="inner">
 <!--                .price_top {height: 94px;}-->
                 <div class="grid mt_30 clearfix" >
-                    <div class="list_wrap pr_40" style="border: 0px solid #9fde46;border-radius: 20px; padding: 140px 180px; height: 640px; width: 540px; background: no-repeat  url('/images/background-2015463_1920.jpg' );  background-size: cover ">
+                    <div class="list_wrap pr_40" style="border: 0px solid #9fde46;border-radius: 20px; padding: 250px 180px; height: 950px; width: 540px; background: no-repeat  url('/images/background-2015463_1920.jpg' );  background-size: cover ">
                         <h3> <strong> 일산파출부 </strong></h3>
                         <ul >
                             <li style="font-size: 25px;"><a href="./service.php">가사 서비스</a></li>
@@ -78,11 +78,11 @@
                         </ul>
                     </div>
 
-                    <div class="img_wrap" style=" width: 540px;margin-left: 50px;">
-                        <div class="price_top" style="border-color: #8AD4DB; height: 180px;" >
-                            <h3 >가정일</h3>
+                    <div class="img_wrap" style=" width: 540px;margin-left: 50px;margin-top: 60px;">
+                        <div class="price_top" style="border-color: #8AD4DB; height: 220px;" >
+                            <h3 style="font-size: 30px;">가사 서비스</h3>
 
-                            <p style="padding-top: 20px">
+                            <p style="padding-top: 40px">
                             <span style="color: #be2626; width: 50%; font-size: 32px; font-weight: 500;">031) 922 - 0025</span>
                                 <span style="border: 0px solid red;width: 50%; font-size: 32px; font-weight: 300;padding-left: 80px">대표전화&nbsp;&nbsp;:&nbsp;&nbsp;</span>
                             </p>
@@ -90,13 +90,11 @@
                             <div  style="border-radius: 20px; width: 240px;margin: 50px auto;text-align: center; height: 40px; line-height: 40px;background-color:#f69ee3; color: #ffffff ">
                                 서비스 가능 지역 : 고양, 파주
                             </div>
-
-
                         </div>
-                        <div class="price_top" style="margin-top:40px; border-color: #8AD4DB; height: 180px;" >
-                            <h3 >식당일</h3>
+                        <div class="price_top" style="margin-top:90px; border-color: #8AD4DB; height: 220px;" >
+                            <h3 style="font-size: 30px;">식당 서비스</h3>
 
-                            <p style="padding-top: 20px">
+                            <p style="padding-top: 40px">
                                 <span style="color: #be2626; width: 50%; font-size: 32px; font-weight: 500;">031) 922 - 0073</span>
                                 <span style="border: 0px solid red;width: 50%; font-size: 32px; font-weight: 300;padding-left: 80px">대표전화&nbsp;&nbsp;:&nbsp;&nbsp;</span>
                             </p>
@@ -106,7 +104,7 @@
                             </div>
                         </div>
 
-                        <div class="price_top" style="border-color: #8AD4DB;margin-top: 40px;height: 200px;text-align: center" >
+                        <div class="price_top" style="border-color: #8AD4DB;margin-top: 90px;height: 200px;text-align: center" >
                             <img  src="./assets/h1_logo_sub.gif" style="width:200px; height: 50px; ">
                             <p style="padding-top: 20px; padding-right: 30px;">
                                 <span style="color: #1d6fe0;  font-size: 32px; font-weight: 500;">계좌번호 : &nbsp;&nbsp;&nbsp;&nbsp;031&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;922&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;0025</span><br><br><br>

@@ -131,7 +131,7 @@ input[type="checkbox"]:checked + label>span {background: url(../images/checked.p
 .sub .visual .inner {display: flex; height: 299px; justify-content:flex-start; align-items: center;}
 .sub .visual .tit {font-size: 50px; font-weight: 300; color: #282828;}
 
-.sub .contents {margin-top: 100px; margin-bottom: 180px;}
+.sub .contents {margin-top: 160px; margin-bottom: 180px;}
 .sub .contents .tbl {display: table; table-layout: fixed; width: 100%;}
 .sub .contents .tbl .tbl_cell {display: table-cell;}
 
