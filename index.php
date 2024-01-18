@@ -80,7 +80,7 @@
 
                     <div class="img_wrap" style=" width: 540px;margin-left: 50px;margin-top: 60px;">
                         <div class="price_top" style="border-color: #8AD4DB; height: 220px;" >
-                            <h3 style="font-size: 30px;">가사 서비스</h3>
+                            <h3 style="font-size: 30px;"><strong style="color:#8AD4DB ">가사&nbsp;&nbsp;서비스</strong></h3>
 
                             <p style="padding-top: 40px">
                             <span style="color: #be2626; width: 50%; font-size: 32px; font-weight: 500;">031) 922 - 0025</span>
@@ -92,7 +92,7 @@
                             </div>
                         </div>
                         <div class="price_top" style="margin-top:90px; border-color: #8AD4DB; height: 220px;" >
-                            <h3 style="font-size: 30px;">식당 서비스</h3>
+                            <h3 style="font-size: 30px;"><strong style="color:#8AD4DB ">식당&nbsp;&nbsp;서비스</strong></h3>
 
                             <p style="padding-top: 40px">
                                 <span style="color: #be2626; width: 50%; font-size: 32px; font-weight: 500;">031) 922 - 0073</span>
