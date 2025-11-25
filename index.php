@@ -103,7 +103,7 @@
                                 서비스 가능 지역 : 고양, 파주
                             </div>
                         </div>
-
+<!--
                         <div class="price_top" style="border-color: #8AD4DB;margin-top: 90px;height: 200px;text-align: center" >
                             <img  src="./assets/h1_logo_sub.gif" style="width:200px; height: 50px; ">
                             <p style="padding-top: 20px; padding-right: 30px;">
@@ -111,7 +111,7 @@
                                 <span style="color: #1d6fe0;  font-size: 32px; font-weight: 500;">예금주 : 일산파출부&nbsp;&nbsp; (이경림) &nbsp;&nbsp;&nbsp;</span>
                             </p>
                         </div>
-
+-->
 
                     </div>
                 </div>
