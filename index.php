@@ -62,9 +62,10 @@
             </div>
         </section>
 
-        <section class="contents" style="padding-bottom: 50px;">
+        <section class="contents" style="padding-bottom: 30px;">
             <div class="inner">
 <!--                .price_top {height: 94px;}-->
+<<<<<<< HEAD
                 <div class="grid mt_30 clearfix" >
                     <div class="list_wrap pr_40" style="border: 0px solid #9fde46;border-radius: 20px; padding: 250px 180px; height: 950px; width: 540px; background: no-repeat  url('/images/background-2015463_1920.jpg' );  background-size: cover ">
                         <h3> <strong> 일산파출부 </strong></h3>
@@ -114,9 +115,15 @@
 -->
 
                     </div>
+=======
+                <div class="grid mt_30" style="display: flex; justify-content: center; gap: 20px;">
+                    <img src="./images/restaurant_service.png">
+                    <img src="./images/housekeeping_service.png">
+>>>>>>> 15534e0a236ebfa63ec170cd4c1832b3f69ce709
                 </div>
 
             </div>
+        </section>
         </section>
 
 
