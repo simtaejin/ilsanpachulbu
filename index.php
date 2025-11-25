@@ -65,7 +65,7 @@
         <section class="contents" style="padding-bottom: 30px;">
             <div class="inner">
 <!--                .price_top {height: 94px;}-->
-                <div class="grid mt_30" style="display: flex; justify-content: center; gap: 20px;">
+                <div class="grid mt_30" style="display: flex; justify-content: center; gap: 60px;">
                     <img src="./images/restaurant_service.png">
                     <img src="./images/housekeeping_service.png">
                 </div>
