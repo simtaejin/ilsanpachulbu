@@ -13,7 +13,7 @@
 /*#header .top .inner .number {font-family: 'Gmarket'; color: #00417e; font-size: 36px; font-weight: bold; line-height: 1.25; letter-spacing: -0.065em;}*/
 #header .top .inner .number {font-family: 'Gmarket'; color: #00417e; font-size: 36px; font-weight: bold; line-height: 1.25; letter-spacing: -0.065em;}
 /*#header .bottom {background: #1de1ef;}*/
-#header .bottom {background: #9fde46;}
+#header .bottom {background: #FFF001;}
 
 #header .bottom .inner {height: 70px;}
 #header .bottom .inner>ul {display: flex;}
@@ -127,11 +127,11 @@ input[type="checkbox"]:checked + label>span {background: url(../images/checked.p
 #footer .bottom .inner .txt_wrap p>span {color: #333333;}
 
 /* 서브페이지 */
-.sub .visual {height: 799px; background: url(../images/sub_visN.jpg)no-repeat 50%; background-size: cover;}
+.sub .visual {height: 599px; background: url(../images/sub_visN.jpg)no-repeat 50%; background-size: cover;}
 .sub .visual .inner {display: flex; height: 299px; justify-content:flex-start; align-items: center;}
 .sub .visual .tit {font-size: 50px; font-weight: 300; color: #282828;}
 
-.sub .contents {margin-top: 160px; margin-bottom: 180px;}
+.sub .contents {margin-top: 60px; margin-bottom: 180px;}
 .sub .contents .tbl {display: table; table-layout: fixed; width: 100%;}
 .sub .contents .tbl .tbl_cell {display: table-cell;}
 
