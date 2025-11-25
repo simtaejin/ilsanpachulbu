@@ -37,11 +37,13 @@
 <div id="wrap">
     <header id="header">
 
-        <div class="bottom">
+        <div class="bottom" >
             <div class="inner">
                 <ul class="gnb">
                     <li>
-                        <a href="/" style="font-size: 40px;text-align:right;margin-right: 10px;font-weight: 900;">일산파출부</a>
+                        <a href="/" style="font-size: 40px;text-align:right;margin-right: 10px;font-weight: 900;">
+                            <img src="./images/logo%20-%201.png" style="width: 100px;height: 100px;margin-left: 10px;">일산파출부
+                        </a>
                     </li>
                     <li><a href="company.php">회사소개</a></li>
                     <li><a href="service.php">서비스안내</a></li>
@@ -49,8 +51,8 @@
                     <li><a href="price.php">요금고지사항</a></li>
                     <li><a href="work.php">구직회원</a></li>
                     <li><a href="location.php">찾아오시는 길</a></li>
-
                 </ul>
+
             </div>
         </div>
     </header>
