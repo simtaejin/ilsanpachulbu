@@ -35,9 +35,11 @@
             <div class="bottom">
                 <div class="inner">
                     <ul class="gnb">
-                        <li class="off">
-                            <a href="/" style="font-size: 40px;text-align:right;margin-right: 10px;font-weight: 900;color: #000000">일산파출부</a>
-                        </li>
+                    <li class="off">
+                        <a href="/" style="font-size: 40px;text-align:right;margin-right: 10px;font-weight: 900;">
+                            <img src="./images/logo%20-%201.png" style="width: 100px;height: 100px;margin-left: 10px;">일산파출부
+                        </a>
+                    </li>
                         <li class="off"><a href="company.php">회사소개</a></li>
                         <li class="off"><a href="service.php">서비스안내</a></li>
                         <li class="off"><a href="employ.php">구인회원</a></li>
@@ -71,7 +73,6 @@
 										<li>6.   구직결정후 서류제출</li>
 										<li>7.   방문시 서류</li>
 										<li>&nbsp;&nbsp;&nbsp;&nbsp;  -   본인 신분증</li>
-										<li>&nbsp;&nbsp;&nbsp;&nbsp;  -   등본</li>
 										<li>&nbsp;&nbsp;&nbsp;&nbsp;  -   회비</li>
 									</ul>
 								</li>

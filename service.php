@@ -35,9 +35,11 @@
             <div class="bottom">
                 <div class="inner">
                     <ul class="gnb">
-                        <li class="off">
-                            <a href="/" style="font-size: 40px;text-align:right;margin-right: 10px;font-weight: 900;color: #000000">일산파출부</a>
-                        </li>
+                    <li class="off">
+                        <a href="/" style="font-size: 40px;text-align:right;margin-right: 10px;font-weight: 900;">
+                            <img src="./images/logo%20-%201.png" style="width: 100px;height: 100px;margin-left: 10px;">일산파출부
+                        </a>
+                    </li>
                         <li class="off"><a href="company.php">회사소개</a></li>
                         <li class="on"><a href="service.php">서비스안내</a></li>
                         <li class="off"><a href="employ.php">구인회원</a></li>
@@ -57,8 +59,10 @@
             </section>
             <section class="contents">
 				<div class="inner">
-					<div class="grid clearfix">
-                        <div class="img_wrap"><img src="./images/service1.jpg" alt=""></div>
+					<div class="grid clearfix" style="display: flex; align-items: center;">
+                        <div class="img_wrap" style="display: flex; justify-content: center;">
+                            <img src="./images/service1.jpg" alt="">
+                        </div>
 						<div class="list_wrap pl_40">
 							<h3><strong>가사 서비스</strong></h3>
 							<p>주부님들의 집안일에 일손이 필요한 경우 도와드립니다.</p>
@@ -157,7 +161,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="grid mt_100 clearfix">
+                    <div class="grid mt_100 clearfix" style="display: flex; align-items: center;">
 
                         <div class="list_wrap pr_40">
                             <h3><strong>식당 서비스</strong></h3>
@@ -174,7 +178,9 @@
                                 <li>주차관리 : 고객 차량주차와 관리를 도와야 하므로 운전을 할 수 있어야 하며 정리를 도와주는 일이다.</li>
                             </ul>
                         </div>
-                        <div class="img_wrap"><img src="./images/service8.jpg" alt=""></div>
+                        <div class="img_wrap" style="display: flex; justify-content: center;">
+                            <img src="./images/service8.jpg" alt="">
+                        </div>
                     </div>
 				</div>
             </section>
