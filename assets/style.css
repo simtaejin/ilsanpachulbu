@@ -143,8 +143,8 @@ input[type="checkbox"]:checked + label>span {background: url(../images/checked.p
 .sub .info {background-color: #eeeeee; padding-top: 70px;}
 
 .grid>div {float: left;}
-.grid>div.img_wrap {width: 580px; overflow: hidden;}
-.grid>div.list_wrap {width: calc(100% - 580px);}
+.grid>div.img_wrap {width: 500px; overflow: hidden;}
+.grid>div.list_wrap {width: calc(100% - 500px);}
 .grid .list_wrap h3 {margin-top: 25px; font-size: 40px; color: #2b2b2b; font-weight: 300; letter-spacing: -0.05em;}
 .grid .list_wrap h3 strong {font-weight: 500;}
 .grid .list_wrap p {font-size: 24px; color: #272727; line-height: 30px; font-weight: 300; letter-spacing: -0.05em; margin-top: 30px;}
